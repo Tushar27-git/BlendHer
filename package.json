@@ -1,0 +1,17 @@
+{
+  "name": "blendher-shader",
+  "version": "1.0.0",
+  "description": "BlendHer Shader - Modern 2025 Edition",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:shadow": "vitest run shaders/tests/shadow.test.ts"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "fast-check": "^3.13.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
