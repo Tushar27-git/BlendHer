@@ -1,0 +1,7 @@
+option.BLOOM_STRENGTH=Bloom Strength
+option.SHADOW_RESOLUTION=Shadow Resolution
+option.SSR_STEPS=Reflection Steps
+option.GODRAY_SAMPLES=God Ray Samples
+option.AMBIENT_THRESHOLD=Horror Mode Threshold
+option.FOG_DENSITY=Fog Density
+option.WIND_GRASS_AMP=Wind Strength
